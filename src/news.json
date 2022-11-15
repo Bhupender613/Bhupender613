@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Sophia Saifi",
+    "title": "Former Prime Minister Imran Khan shot in foot in assassination attempt at rally in Pakistan - CNN",
+    "description": "Pakistan's ex-Prime Minister Imran Khan was shot in the foot at a rally Thursday, according to an official from his party, which said the incident was an assassination attempt.",
+    "url": "https://www.cnn.com/2022/11/03/asia/imran-khan-pakistan-rally-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221021023752-01-imran-khan-disqualified.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-11-03T12:45:00Z",
+    "content": "Pakistans ex-Prime Minister Imran Khan was shot in the foot at a rally Thursday, according to an official from his party, which said the incident was an assassination attempt.\r\nA bullet hit Khan in h… [+1756 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Adela Suliman, Yvonne Wingett Sanchez, Isaac Stanley-Becker",
+    "title": "Obama heckled in Phoenix, slams toxic politics: 'Everybody's yelling' - The Washington Post",
+    "description": "“We have to stay focused”: Obama spins heckling into message about toxic politics ahead of midterm elections.",
+    "url": "https://www.washingtonpost.com/politics/2022/11/03/obama-heckler-arizona-midterm-elections/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-03-2022/t_869891e0587e48e5bb0daffa3e6aae5f_name_20221103_UKbaubleHORIZ_00_00_51_21_Still019.jpg&w=1440",
+    "publishedAt": "2022-11-03T12:43:46Z",
+    "content": "Comment on this story\r\nFormer president Barack Obama was on the campaign trail in Arizona when he was called out by a heckler in the crowd and swiftly spun it into a broader messaging opportunity abo… [+5083 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "North Korea fires suspected ICBM, warns U.S. against 'dangerous' choices - Reuters.com",
+    "description": "North Korea fired multiple missiles on Thursday, including a possible failed intercontinental ballistic missile (ICBM), prompting the United States and South Korea to extend air drills that have drawn Pyongyang's ire.",
+    "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-ballistic-missile-south-koreas-military-2022-11-02/",
+    "urlToImage": "https://www.reuters.com/resizer/9734H5VQDgf1MPyr0BAH9qsqClw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TFGMNUN2IJPUVLSV4RI3K3EQOA.jpg",
+    "publishedAt": "2022-11-03T12:25:00Z",
+    "content": "TOKYO/SEOUL, Nov 3 (Reuters) - North Korea fired multiple missiles on Thursday, including a possible failed intercontinental ballistic missile (ICBM), prompting the United States and South Korea to e… [+6532 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WCVB Boston"
+    },
+    "author": null,
+    "title": "Powerball jackpot now $1.5 billion; 1 ticket sold in Mass. worth $100,000 - WCVB Boston",
+    "description": "The prize has grown to more than $1.5 billion ahead of the next drawing Saturday night. That is the third-largest lottery prize in U.S. history.",
+    "url": "https://www.wcvb.com/article/powerball-jackpot-now-dollar15-billion-1-ticket-sold-in-mass-worth-dollar100000/41852184",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/powerball-ticket-1667468590.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "publishedAt": "2022-11-03T12:19:00Z",
+    "content": "DES MOINES, Iowa —The bad news is that no one won Wednesday nights huge $1.2 billion Powerball jackpot.\r\nThe good news is that means the prize has grown even larger to $1.5 billion ahead of the next … [+936 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Elliot Smith",
+    "title": "Bank of England raises its benchmark rate by 75 basis points, its biggest hike in 33 years - CNBC",
+    "description": "The 75 basis point increase takes the Bank Rate to 3%, its eighth consecutive hike to the main lending rate.",
+    "url": "https://www.cnbc.com/2022/11/03/bank-of-england-raises-rate-by-75-basis-points-biggest-hike-in-33-years.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106878997-1620285560596-gettyimages-1231784837-UK_BOE.jpeg?v=1667476832&w=1920&h=1080",
+    "publishedAt": "2022-11-03T12:00:32Z",
+    "content": "LONDON The Bank of England on Thursday raised interest rates by 75 basis points, its largest single hike since 1989, but struck a dovish tone as policymakers looked to temper market expectations for … [+4536 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Dow Jones Futures Fall: Market Rally Reeling As Fed's Powell Signals Higher Peak Rate | Investor's Business Daily - Investor's Business Daily",
+    "description": "The major indexes suffered significant damage. Here's what to do now.",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-reeling-as-fed-powell-signals-higher-peak-rate/",
+    "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-03-gov.jpg",
+    "publishedAt": "2022-11-03T11:59:23Z",
+    "content": "Dow Jones futures fell early Thursday, along with S&amp;P 500 futures and Nasdaq futures, while Treasury yields rose sharply. The stock market rally suffered major losses Wednesday following the Fede… [+11603 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Josh Alper",
+    "title": "Bradley Chubb agrees to five-year extension with Dolphins - NBC Sports",
+    "description": "Dolphins General Manager Chris Grier said on Wednesday that he expected to have a contract extension with edge rusher Bradley Chubb finalized in the near future and Grier was not just blowing smoke.According to multiple reports, the Dolphins and Chubb have ag…",
+    "url": "https://profootballtalk.nbcsports.com/2022/11/03/bradley-chubb-agrees-to-five-year-extension-with-dolphins/",
+    "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/11/GettyImages-1431759176.jpg",
+    "publishedAt": "2022-11-03T11:15:00Z",
+    "content": "Dolphins General Manager Chris Grier said on Wednesday that he expected to have a contract extension with edge rusher Bradley Chubb finalized in the near future and Grier was not just blowing smoke.\r… [+554 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Republican door knockers intimidate voters while hunting for fraud, say officials - Reuters.com",
+    "description": "The canvassers in California's Shasta County in September wore reflective orange vests and official-looking badges that read “Voter Taskforce.” Four residents said they mistook them for government officials.",
+    "url": "https://www.reuters.com/legal/republican-door-knockers-intimidate-voters-while-hunting-voter-fraud-say-2022-11-03/",
+    "urlToImage": "https://www.reuters.com/resizer/gQF2mypvxLTQYRLHRYl6-61QTdU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M667TAXHMBOLRFIH3ZS7CBHJ3U.jpg",
+    "publishedAt": "2022-11-03T10:28:00Z",
+    "content": "Nov 3 (Reuters) - The canvassers in California's Shasta County in September wore reflective orange vests and official-looking badges that read Voter Taskforce. Four residents said they mistook them f… [+10176 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Leslie Josephs",
+    "title": "Pilot contract negotiations with airlines turn sour - CNBC",
+    "description": "Airlines are facing the dual challenge of combatting a shortage of pilots while keeping a lid on costs.",
+    "url": "https://www.cnbc.com/2022/11/03/us-airlines-pilot-contract-negotiations-turn-rocky.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107144165-1667320704710-gettyimages-1419978325-032a9554_d9490a64-5391-4e66-8025-4e93a17436df.jpeg?v=1667469612&w=1920&h=1080",
+    "publishedAt": "2022-11-03T10:00:12Z",
+    "content": "Delta Airlines pilots make their way to Terminal 4 to picket for a new contract at JFK International Airport on September 01, 2022 in New York City.\r\nU.S. airlines are profitable again, and their pil… [+5193 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Kevin Liptak, MJ Lee, Betsy Klein, Phil Mattingly",
+    "title": "Biden sends a stark warning about political violence ahead of midterms: 'We can't take democracy for granted any longer' - CNN",
+    "description": "President Joe Biden on Wednesday delivered a stark warning to Americans that the future of the nation's democracy could rest on next week's midterm elections, an urgent appeal coming six days before final ballots are cast in a contest the president framed in …",
+    "url": "https://www.cnn.com/2022/11/02/politics/biden-speech-democracy-dc/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221102191326-joe-biden-union-station-110222.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-11-03T09:38:00Z",
+    "content": "President Joe Biden on Wednesday delivered a stark warning to Americans that the future of the nations democracy could rest on next weeks midterm elections, an urgent appeal coming six days before fi… [+5386 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "Johnny Depp to Make Guest Appearance in Rihanna's Savage X Fenty Show - TMZ",
+    "description": "Johnny Depp is a wanted man in just about every lane Hollywood has to offer these days, and he's about to make a guest appearance in a huge show -- orchestrated by Rihanna!",
+    "url": "https://www.tmz.com/2022/11/03/johnny-depp-rihanna-savage-x-fenty-fashion-show-guest-surprise-appearance/",
+    "urlToImage": "https://imagez.tmz.com/image/25/16by9/2022/11/02/2547646d76644fef9e8d0eab66746cf9_xl.jpg",
+    "publishedAt": "2022-11-03T09:00:00Z",
+    "content": "Johnny Depp is a wanted man in just about every lane Hollywood has to offer these days, and he's about to make a guest appearance in a huge show -- orchestrated by Rihanna!\r\nNo, Depp won't be shreddi… [+1070 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Israel elections: Netanyahu set for comeback with far right's help - partial results - BBC",
+    "description": "The former PM's bloc is on course to win a majority in parliament, partial election results show.",
+    "url": "https://www.bbc.com/news/world-middle-east-63459824",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/128E8/production/_127480067_netanyahu_epa.jpg",
+    "publishedAt": "2022-11-03T08:21:28Z",
+    "content": "Former Israeli Prime Minister Benjamin Netanyahu is on the brink of a dramatic comeback, after partial results showed he was on course to win a majority in parliament with the far right's help.\r\nWith… [+4656 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Nicole Vassell",
+    "title": "Takeoff shooting - latest: Migos rapper’s coroner report reveals new death details as Offset pays tribute - The Independent",
+    "description": "Takeoff shot - live news",
+    "url": "https://www.independent.co.uk/arts-entertainment/music/news/takeoff-autopsy-suspected-killer-shooting-video-b2216575.html",
+    "urlToImage": "https://static.independent.co.uk/2022/11/01/14/newFile.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-11-03T06:11:46Z",
+    "content": "Sign up to Roisin OConnors free weekly newsletter Now Hear This for the inside track on all things music\r\nGet our Now Hear This email for free\r\nTakeoff, a member of rap trio Migos, was shot dead in H… [+5642 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Moscow Times"
+    },
+    "author": "AFP",
+    "title": "Russia Rejoins Deal to Ship Vital Ukraine Grain Exports - The Moscow Times",
+    "description": "Grain ships left Ukraine's ports on Thursday, a day after Russia rejoined an international agreement to guarantee their safe passage through the Black Sea.",
+    "url": "https://www.themoscowtimes.com/2022/11/03/ukraine-shipments-resume-but-russia-casts-doubt-on-grain-deal-a79274",
+    "urlToImage": "https://static.themoscowtimes.com/image/og/83/79274__83fc1972b4cb530b1c38e149f3ba2927.jpg",
+    "publishedAt": "2022-11-03T05:27:41Z",
+    "content": "Grain ships left Ukraine's ports on Thursday, a day after Russia rejoined an international agreement to guarantee their safe passage through the Black Sea.\r\nBut Russia said it had yet to decide wheth… [+2907 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Oliver O'Connell",
+    "title": "Trump news – live: Trump sues NY’s Letitia James as Kash Patel ‘to testify’ in Mar-a-Lago case - The Independent",
+    "description": "Donald Trump news today",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-news-today-letitia-james-fbi-raid-b2216552.html",
+    "urlToImage": "https://static.independent.co.uk/2022/11/02/11/newFile-15.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-11-03T04:22:58Z",
+    "content": "Trump sues NY's Letitia James for 'war of intimidation and harassment'\r\nDonald Trump has filed a lawsuit against New York attorney general Letitia James alleging extraordinary wrongdoing and embarkin… [+886 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Brian Gallagher",
+    "title": "Kim Kardashian blames Kanye West for THAT flame outfit after she got ROASTED by fans - Daily Mail",
+    "description": "Kim Kardashian clapped back at online haters who blasted a unique flaming outfit that drew comparisons to Guy Fieri and The Incredibles.",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-11380435/Kim-Kardashian-blames-Kanye-West-flame-outfit-got-ROASTED-fans.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2022/11/03/00/64136431-0-image-a-55_1667436402121.jpg",
+    "publishedAt": "2022-11-03T04:01:47Z",
+    "content": "Kim Kardashian clapped back at online haters who blasted a unique flaming outfit that drew comparisons to Guy Fieri and The Incredibles.\r\nThe 41-year-old was spotted out in the unique outfit - featur… [+4206 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Kari Lake says she ‘never made light’ of Pelosi attack, blames ‘creative editing’ - The Hill",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzcxNjY0Ni1rYXJpLWxha2Utc2F5cy1zaGUtbmV2ZXItbWFkZS1saWdodC1vZi1wZWxvc2ktYXR0YWNrLWJsYW1lcy1jcmVhdGl2ZS1lZGl0aW5nL9IBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-11-03T03:36:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gematsu"
+    },
+    "author": "Sal Romano",
+    "title": "PlayStation VR2 launches February 22, 2023; 11 new titles announced - Gematsu",
+    "description": "PlayStation VR2 will launch on February 22, 2023 for $549.99 / €599.99 / £529.99 / 74,980 yen, Sony Interactive Entertainment announced. Pre-orders will open in November. PlayStation Network users can…",
+    "url": "https://www.gematsu.com/2022/11/playstation-vr2-launches-february-22-2023-11-new-titles-announced",
+    "urlToImage": "https://www.gematsu.com/wp-content/uploads/2022/11/PSVR2-Release-Date_11-02-22.jpg",
+    "publishedAt": "2022-11-03T03:24:02Z",
+    "content": "The base PlayStation VR2 package will include the PlayStation VR2 headset, Sense controllers, and stereo headphones. A Horizon Call of the Mountain bundle will also be available for $599.99 / 649.99 … [+20488 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ESPN"
+    },
+    "author": "Tim MacMahon",
+    "title": "Luka Doncic first since Wilt Chamberlain with 7 30-point games to open season - ESPN",
+    "description": "Luka Doncic has scored at least 30 points in seven straight games, the longest streak to open a season since Wilt Chamberlain in 1962-63.",
+    "url": "https://www.espn.com/nba/story/_/id/34937125/luka-doncic-first-wilt-chamberlain-7-30-point-games-open-season",
+    "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1103%2Fr1085369_2_1024x576_16%2D9.jpg",
+    "publishedAt": "2022-11-03T03:08:28Z",
+    "content": "DALLAS -- It has been sixty years since the NBA has seen a season-opening scoring streak like Luka Doncic's sizzling start to the season.\r\nDoncic has scored at least 30 points in each of the Dallas M… [+2666 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Gene Maddaus",
+    "title": "LAPD to Investigate Captain Accused of Tipping Off Leslie Moonves About Sex Assault Investigation - Variety",
+    "description": "The LAPD said Wednesday that it has begun an internal investigation into a retired police commander who allegedly tipped off Leslie Moonves, then the CEO of CBS Corp., about a sexual assault investigation in November 2017, and who swore his “allegiance” to Mo…",
+    "url": "https://variety.com/2022/tv/news/lapd-captain-leslie-moonves-tip-investigation-1235421858/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2017/04/moonves.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2022-11-03T03:02:00Z",
+    "content": "The LAPD said Wednesday that it has begun an internal investigation into a retired police commander who allegedly tipped off Leslie Moonves, then the CEO of CBS Corp., about a sexual assault investig… [+4114 chars]"
+    }
+    ]
+    }
